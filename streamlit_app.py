@@ -2,8 +2,8 @@ import streamlit as st
 st.write("streamlit imported")
 import cv2
 st.write("cv2 imported")
-import mediapipe as mp
-st.write("mediapipe imported")
+# import mediapipe as mp
+# st.write("mediapipe imported")
 
 # mp_drawing = mp.solutions.drawing_utils
 # mp_hands = mp.solutions.hands
