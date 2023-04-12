@@ -1,6 +1,5 @@
 import cv2
 import streamlit as st
-import mediapipe as mp
 # import mediapipe as mp
 
 # mp_drawing = mp.solutions.drawing_utils
