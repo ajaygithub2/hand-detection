@@ -1,4 +1,5 @@
 import streamlit as st
+st.write("streamlit imported")
 import cv2
 st.write("cv2 imported")
 import mediapipe as mp
